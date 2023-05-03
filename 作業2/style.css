@@ -1,0 +1,49 @@
+/* 全局設置 */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ddbfbf;
+}
+
+/* 滿版橫幅圖片 */
+.banner {
+    background-image: url('./images/pexels-matthew-montrone-733478.jpg');
+    background-size: cover;
+    height: 60vh;
+}
+
+
+
+/* 大標題 */
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+/* 小標題 */
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+}
+
+/* 段落 */
+p {
+    font-size: 1em;
+    line-height: 1.5em;
+    text-align: justify;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+/* 圖片 */
+img {
+    display: block;
+    margin: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    max-width: 50%;
+}
